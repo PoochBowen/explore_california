@@ -1,0 +1,9 @@
+# Comment
+*.txt
+*.zip
+*.gz
+.DS_Store
+log/*.log
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
